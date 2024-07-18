@@ -3,6 +3,11 @@
     flex: 0 0 236px;
     justify-content: space-between;
     align-items: center;
+    float: left;
+}
+a {
+    display: inline-block;
+    margin: 30px;
 }
 
 .navbar a:hover {
